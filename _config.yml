@@ -4,8 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   GIS Specialist with 5+ experience in ESRI products including ArcGIS Pro, ArcGIS Online, Survey123, and more!
   Some experience with various programming languages including Python, SQL, and R.
   <br><br>
-  Currently pursuing a Masters of Science in Geospatial Technologies from the University of Oklahoma. 
- # <a href="www.linkedin.com/in/megan-steffes">View My LinkedIn Profile</a> 
+  Currently pursuing a Masters of Science in Geospatial Technologies from the University of Oklahoma.
+  <br><br>
+  <a href="www.linkedin.com/in/megan-steffes">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
