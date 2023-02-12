@@ -4,7 +4,7 @@
 
 ### ArcGIS Pro Projects
 
-[Transitshed]#(/pdf/Lab2_hs.pdf)
+[Transitshed](/pdf/Lab2_hs.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
