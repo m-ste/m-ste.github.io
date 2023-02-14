@@ -9,13 +9,11 @@
 
 ---
 [Hotspot Analysis](/pdf/hotspot_analysis.pdf)
-<img src="LocalMoran.jpg?raw=true"/>
-<img src="GetisOrd.jpg?raw=true"/>
+<img src="images/LocalMoran.jpg?raw=true"/>  <img src="images/GetisOrd.jpg?raw=true"/>
 
 ---
 [Spatial Interpolation](/pdf/spatial_interpolation.pdf)
-<img src="images/kriging.jpg?raw=true"/>
-<img src="images/idw.jpg?raw=true"/>
+<img src="images/kriging.jpg?raw=true"/>  <img src="images/idw.jpg?raw=true"/>
 
 ---
 
