@@ -5,7 +5,8 @@
 ### ArcGIS Pro Projects
 
 [Transitshed](/pdf/transitshed.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="/pdf/transitshed.pdf"/>
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 [Hotspot Analysis](/pdf/LocalMoran.pdf)
@@ -20,10 +21,10 @@
 ### ArcGIS StoryMap Projects
 
 - [Locating Appealing Sites for Banana Plants on Oahu, Hawai'i using MCDA](https://storymaps.arcgis.com/stories/4f7f146bc3af4daca2d5d8f0a5f62b6d)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<!-- - [Project 2 Title](http://example.com/) -->
+<!-- - [Project 3 Title](http://example.com/) -->
+<!-- - [Project 4 Title](http://example.com/) -->
+<!-- - [Project 5 Title](http://example.com/) -->
 
 ---
 
