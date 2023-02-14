@@ -5,16 +5,17 @@
 ### ArcGIS Pro Projects
 
 [Transitshed](/pdf/transitshed.pdf)
-<img src="/pdf/transitshed.pdf"/>
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+<img src="images/transitshed.jpg?raw=true"/>
 
 ---
-[Hotspot Analysis](/pdf/LocalMoran.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hotspot Analysis](/pdf/hotspot_analysis.pdf)
+<img src="LocalMoran.jpg?raw=true"/>
+<img src="GetisOrd.jpg?raw=true"/>
 
 ---
-[Kriging](/pdf/kriging.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Spatial Interpolation](/pdf/spatial_interpolation.pdf)
+<img src="images/kriging.jpg?raw=true"/>
+<img src="images/idw.jpg?raw=true"/>
 
 ---
 
