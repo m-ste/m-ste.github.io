@@ -6,24 +6,24 @@
 
 [Transitshed](/pdf/transitshed.pdf)
 <p align="center">
-  <img src="images/transitshed.jpg?raw=true" width="50%"/>
+  <img src="images/transitshed.jpg?raw=true" width="45%"/>
  </p>
 
 ---
 [Hotspot Analysis](/pdf/hotspot_analysis.pdf)
 <p align="center">
-  <img alt="Light" src="images/LocalMoran.jpg?raw=true" width="50%">
+  <img alt="Light" src="images/LocalMoran.jpg?raw=true" width="45">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="images/GetisOrd.jpg?raw=true" width="50%">
+  <img alt="Dark" src="images/GetisOrd.jpg?raw=true" width="45%">
 </p>
 <!-- <img src="images/LocalMoran.jpg?raw=true"/>  <img src="images/GetisOrd.jpg?raw=true"/> -->
 
 ---
 [Spatial Interpolation](/pdf/spatial_interpolation.pdf)
 <p align="center">
-  <img alt="Light" src="images/kriging.jpg?raw=true" width="50%">
+  <img alt="Light" src="images/kriging.jpg?raw=true" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="images/idw.jpg?raw=true" width="50%">
+  <img alt="Dark" src="images/idw.jpg?raw=true" width="45%">
 </p>
 <!-- <img src="images/kriging.jpg?raw=true"/>  <img src="images/idw.jpg?raw=true"/> -->
 
