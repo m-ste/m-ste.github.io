@@ -5,20 +5,25 @@
 ### ArcGIS Pro Projects
 
 [Transitshed](/pdf/transitshed.pdf)
-<img src="images/transitshed.jpg?raw=true"/>
+<img src="images/transitshed.jpg?raw=true" width="55%"/>
 
 ---
 [Hotspot Analysis](/pdf/hotspot_analysis.pdf)
 <p align="center">
-  <img alt="Light" src="images/LocalMoran.jpg?raw=true" width="45%">
+  <img alt="Light" src="images/LocalMoran.jpg?raw=true" width="55%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="images/GetisOrd.jpg?raw=true" width="45%">
+  <img alt="Dark" src="images/GetisOrd.jpg?raw=true" width="55%">
 </p>
-<img src="images/LocalMoran.jpg?raw=true"/>  <img src="images/GetisOrd.jpg?raw=true"/>
+<!-- <img src="images/LocalMoran.jpg?raw=true"/>  <img src="images/GetisOrd.jpg?raw=true"/> -->
 
 ---
 [Spatial Interpolation](/pdf/spatial_interpolation.pdf)
-<img src="images/kriging.jpg?raw=true"/>  <img src="images/idw.jpg?raw=true"/>
+<p align="center">
+  <img alt="Light" src="images/kriging.jpg?raw=true" width="55%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="images/idw.jpg?raw=true" width="55%">
+</p>
+<!-- <img src="images/kriging.jpg?raw=true"/>  <img src="images/idw.jpg?raw=true"/> -->
 
 ---
 
