@@ -5,7 +5,7 @@
 ### ArcGIS Pro Projects
 
 [Transitshed](/pdf/transitshed.pdf)
-<p align="center">
+<p align="left">
   <img src="images/transitshed.jpg?raw=true" width="45%"/>
  </p>
 
