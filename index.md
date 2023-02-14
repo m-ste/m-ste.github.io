@@ -12,7 +12,7 @@
 ---
 [Hotspot Analysis](/pdf/hotspot_analysis.pdf)
 <p align="center">
-  <img alt="Light" src="images/LocalMoran.jpg?raw=true" width="45">
+  <img alt="Light" src="images/LocalMoran.jpg?raw=true" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="images/GetisOrd.jpg?raw=true" width="45%">
 </p>
