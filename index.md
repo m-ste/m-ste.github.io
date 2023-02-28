@@ -40,6 +40,14 @@
 <!-- - [Project 5 Title](http://example.com/) -->
 
 ---
+---
+
+### Google Earth Engine
+
+[Sentinel-2 for Fire Monitoring](https://msteffes.users.earthengine.app/view/sentinelfiremonitoring) - used Sentinel-2 to monitor before and after a fire, represented in a Split Panel App.
+
+
+---
 
 
 
